@@ -39,6 +39,7 @@
         "http-proxy-middleware": "^0.17.2",
         "json-loader": "^0.5.4",
         "opn": "^4.0.2",
+        "macaddress": ">=0.2.9",
         "ora": "^0.3.0",
         "randomatic": ">=3.0.0",
         "semver": "^5.6.0",
